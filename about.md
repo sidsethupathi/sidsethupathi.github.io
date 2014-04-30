@@ -18,4 +18,4 @@ I am a junior at the [University of Illinois at Urbana-Champaign](http://illinoi
 In my free time, I enjoy playing the piano, watching any Chicago sports team, rating and commenting on [IlliniDumps](http://illinidumps.com).
 \\
 \\
-I hacked together a personal site the summer before college in order to learn web development. I did learn a lot during that project, but in the end, it didn't make a whole lot of sense to keep that project up and running as my main site. I stumbled across [Jekyll](http://jekyllrb.com) and [Minimal Mistakes](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme) and thought it looked cool enough to try out.
+I hacked together a personal site the summer before college in order to learn web development. I did learn a lot during that project, but in the end, it didn't make a whole lot of sense to keep that project up and running. In that time, I've also learned it isn't necessary to reinvent the wheel. I recently stumbled across [Jekyll](http://jekyllrb.com) and [Minimal Mistakes](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme) and thought it looked cool enough to try out.
