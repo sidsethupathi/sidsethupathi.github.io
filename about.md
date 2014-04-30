@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: About me
 tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+tags: [about, Sid Sethupathi, website, uiuc]
+modified: 4-30-2014
 comments: true
 image:
   feature: texture-feature-02.jpg
@@ -12,19 +12,10 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
-
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+I am a junior at the [University of Illinois at Urbana-Champaign](http://illinois.edu) studying Electrical Engineering and Computer Science. In the past, I've worked at [Nexteer Automotive](http://www.nexteer.com), [JPMorgan Chase](http://www.jpmorgan.com), and will be interning this upcoming summer at [Microsoft](http://www.microsoft.com) on the [Office](http://office.microsoft.com) team.
+\\
+\\
+In my free time, I enjoy playing the piano, watching any Chicago sports team, rating and commenting on [IlliniDumps](http://illinidumps.com).
+\\
+\\
+I hacked together a personal site the summer before college in order to learn web development. I did learn a lot during that project, but in the end, it didn't make a whole lot of sense to keep that project up and running as my main site. I stumbled across [Jekyll](http://jekyllrb.com) and [Minimal Mistakes](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme) and thought it looked cool enough to try out.

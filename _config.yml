@@ -1,21 +1,21 @@
-title:            Site Title
+title:            Sid Sethupathi
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://sidsethupathi.com/jekyll/dep
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Sid Sethupathi
+  avatar:         face2.jpg
+  bio:            "Student at the University of Illinois - Urbana Champaign"
+  email:          sid.sethupathi@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        SidSethupathi
+  facebook:       sid.sethupathi
+  github:         sidsethupathi
   stackoverflow: 
-  linkedin:       
+  linkedin:       sidsethupathi
   instagram:      
   lastfm:         
   tumblr: 
@@ -24,7 +24,7 @@ owner:
   steam: 
   dribbble: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus:    SidSethupathi
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -39,11 +39,6 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
