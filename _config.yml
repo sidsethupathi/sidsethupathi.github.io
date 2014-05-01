@@ -1,8 +1,8 @@
 title:            Sid Sethupathi
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://sidsethupathi.com/stage
-url:              
+url:              http://sidsethupathi.com/stage
+#url:              
 
 disqus_shortname:  sidsethupathi
 
