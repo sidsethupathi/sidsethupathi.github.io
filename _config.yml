@@ -1,7 +1,7 @@
 title:            Sid Sethupathi
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://sidsethupathi.com/stage
+url:              http://sidsethupathi.com
 #url:              
 
 disqus_shortname:  sidsethupathi
@@ -29,7 +29,7 @@ owner:
   google_plus:    SidSethupathi
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-50567031-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
