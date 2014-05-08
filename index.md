@@ -1,5 +1,5 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+description: "An electrical engineering student at the University of Illinois - Urban Champaign"
 tags: [sid, sethupathi, uiuc, ece, blog]
 ---
