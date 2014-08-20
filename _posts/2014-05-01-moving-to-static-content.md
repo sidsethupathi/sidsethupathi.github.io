@@ -45,8 +45,8 @@ I used the [MinimalMistakes](http://mademistakes.com/minimal-mistakes/) theme, b
 
 {% highlight bash %}
     $ cd ~/
-    $ jekyll new my_blog
-    $ cd my_blog
+$ jekyll new my_blog
+$ cd my_blog
 {% endhighlight %}
 
 Now, if you had done this on your local machine, you could run `jekyll serve` which will deploy to `localhost:4000` and you can preview your content there, but since this is on a VPS, that's not possible. You can now build your site with the following:
