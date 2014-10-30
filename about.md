@@ -8,7 +8,7 @@ modified: 4-30-2014
 comments: false
 ---
 
-I am a junior at the [University of Illinois at Urbana-Champaign](http://illinois.edu) studying Electrical Engineering and Computer Science. In the past, I've worked at [Nexteer Automotive](http://www.nexteer.com), [JPMorgan Chase](http://www.jpmorgan.com), and most recently [Microsoft](http://www.microsoft.com) with the [Office](http://office.microsoft.com) team.
+I am a senior at the [University of Illinois at Urbana-Champaign](http://illinois.edu) studying Electrical Engineering and Computer Science. In the past, I've worked at [Nexteer Automotive](http://www.nexteer.com), [JPMorgan Chase](http://www.jpmorgan.com), and most recently [Microsoft](http://www.microsoft.com) with the [Office](http://office.microsoft.com) team.
 \\
 \\
 In my free time, I enjoy playing the piano, watching any Chicago sports team, and rating and commenting UIUC bathrooms on [IlliniDumps](http://illinidumps.com).
