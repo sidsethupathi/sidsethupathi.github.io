@@ -1,5 +1,5 @@
 ---
 layout: home
-description: "An electrical engineering student at the University of Illinois - Urbana Champaign"
+description: "Full stack engineer - electrical engineering graduate from UIUC"
 tags: [sid, sethupathi, uiuc, ece, blog]
 ---
