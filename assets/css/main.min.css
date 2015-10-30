@@ -8,3 +8,18 @@
 #posts-heading {
 	padding-top: 15px;
 }
+
+article {
+	font-size: 1.2em;
+	line-height: 30px;
+}
+
+article a {
+		color: #336699;
+}
+
+@media only screen and (min-width: 86.375em) {
+	#main article {
+    	width: 50%;
+	}	
+}
