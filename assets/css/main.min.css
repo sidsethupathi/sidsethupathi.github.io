@@ -9,9 +9,8 @@
 	padding-top: 15px;
 }
 
-article {
-	font-size: 1.2em;
-	line-height: 30px;
+#main article {
+	line-height: 25px;
 }
 
 article .article-wrap a, .article-author-side p a {
@@ -20,6 +19,8 @@ article .article-wrap a, .article-author-side p a {
 
 @media only screen and (min-width: 86.375em) {
 	#main article {
-    	width: 50%;
+		width: 50%;
+		font-size: 1.2em;
+		line-height: 30px;
 	}	
 }
