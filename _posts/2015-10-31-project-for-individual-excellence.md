@@ -28,10 +28,10 @@ I am notoriously bad at staring at my phone while still in bed. Before I go to s
 
 ## 2. Creative: practicing the piano
 
-For about 15 years of my life, I took piano lessons. However, for the early portion of those 15 years, I absolutely hated practicing (sorry if you are reading this, Ms. Andersen). 
+For about 15 years of my life, I took piano lessons. However, for the early portion of those 15 years, I didn't enjoy practicing (sorry if you are reading this, Ms. Andersen).
 \\
 \\
-Fast forward to this year when one of my closest friends asked my to play the piano in his wedding, to which I excitedly responded yes. It only dawned on me after the fact that I hadn't played the piano for an audience in over 4 years. This meant meaningful practice, something that has eluded me since I stopped taking lessons.
+Fast forward to this year when one of my closest friends asked my to play the piano in his wedding, to which I excitedly responded yes. It only dawned on me after the fact that I hadn't played for an audience in over 4 years. This meant meaningful practice, something that has eluded me since I stopped taking lessons.
 \\
 \\
 Preparing for the wedding reminded me how much fun it is to learn music. Even better, it sparked my interest in playing the piano with purpose once again.
@@ -47,7 +47,7 @@ Preparing for the wedding reminded me how much fun it is to learn music. Even be
 It is a little known fact that I keep a very untidy room (unless you have once been my roommate...or are my mom). Throughout college, I only used my room as a destination to sleep which left it in a constant state of disarray. It was impossible to see the top of my desk through all junk mail, loose papers, and books. Empty boxes and laundry baskets covered the floor forcing me to jump to the bed on more than one occasion. More often than not, I slept on the third of my mattress that was not covered by unfolded laundry.
 \\
 \\
-My mom always preached that cleanliness was strongly related to a person's well-being but I never really listened to that advice. 
+My mom always preached that cleanliness was strongly related to a person's well-being but I never listened to that advice.
 \\
 \\
 **For the month of November, I challenge myself to keep my room clean.** This means:
@@ -68,7 +68,7 @@ For reference, here is a picture of my room at the time of this post:
 In order to motivate myself to complete this project, I have set up the following stakes for anytime I regress on my goals. 
 \\
 \\
-For every time I use a screened device before I sleep or when I wake up, I will **sleep in a sleeping bag on the wood floor of our family room**.
+For every time I use a screened device before I sleep or when I wake up, I will **sleep in a sleeping bag on the hard wood floor of our family room**.
 \\
 \\
 For the other goals, every third goal I fail to complete, I will **wear an ugly sweater, turtleneck, or blazer to work on a Friday** purchased from [Community Thrift](http://www.communitythriftsf.org){:target="_blank"}.
