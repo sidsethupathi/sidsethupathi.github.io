@@ -7,15 +7,15 @@ tags: [pie, project, individual, excellence, personal, blog]
 comments: true
 ---
 
-I am embarking on a Project for Individual Excellence during the month of November. Inspired by my friend [DJ Podgorny](https://djpodgorny.wordpress.com/2015/07/02/my-project-for-individual-excellence-pie/) at [Be Opposite](http://beopposite.com) and my roommate [Bo DellaMaria](http://bodecker.me/2015/10/01/pie-october), I spent the last month brainstorming challenges that I want to take on in order to develop myself. 
+I am embarking on a Project for Individual Excellence during the month of November. Inspired by my friend [DJ Podgorny](https://djpodgorny.wordpress.com/2015/07/02/my-project-for-individual-excellence-pie/){:target="_blank"} at [Be Opposite](http://beopposite.com){:target="_blank"} and my roommate [Bo DellaMaria](http://bodecker.me/2015/10/01/pie-october){:target="_blank"}, I spent the last month brainstorming challenges that I want to take on in order to develop myself. 
 
 # The Project
 
-You can read about Zak Slayback's initial project [here](http://zakslayback.com/2015/03/18/pie-project-for-individual-excellence), but to sum it up, it is a challenge towards self development. You create goals and make progress towards these goals, growing at every opportunity no matter good or bad. For November, I've created three goals that I will set out to achieve. I've deviated a bit from Zak's PIE structure by adding deliverables to some of the goals, but I think this will make it more interesting for myself.
+You can read about Zak Slayback's initial project [here](http://zakslayback.com/2015/03/18/pie-project-for-individual-excellence), but to sum it up, it is a challenge towards self development. You create goals and make progress towards these goals, growing at every opportunity no matter good or bad. For November, I've created three goals that I will set out to achieve. I've deviated a bit from Zak's PIE structure by adding deliverables to some of the goals, but I think this will make the whole experience more interesting for myself.
 
 ## 1. Physical: screenless sleep preparations
 
-I am notoriously bad at staring at my phone while still in bed. Before I go to sleep, I check Facebook, Slack, and Reddit. As soon as I wake up, I once again instinctively check Facebook, Slack, and Reddit. This makes it difficult to fall asleep at night and probably worse, get out of bed in the morning. The fact that I sleep with my phone beside my pillow does not help this practice. 
+I am notoriously bad at staring at my phone while still in bed. Before I go to sleep, I check Facebook, Slack, and Reddit. As soon as I wake up, I once again instinctively check Facebook, Slack, and Reddit. This makes it difficult to fall asleep at night and probably worse, get out of bed in the morning.
 \\
 \\
 **For the month of November, I challenge myself to reduce the amount of time I look at a screen while getting ready for bed and waking up.** I will accomplish this challenge by:
@@ -31,7 +31,7 @@ I am notoriously bad at staring at my phone while still in bed. Before I go to s
 For about 15 years of my life, I took piano lessons. However, for the early portion of those 15 years, I absolutely hated practicing (sorry if you are reading this, Ms. Andersen). 
 \\
 \\
-Fast forward to this year when one of my closest friends asked my to play the piano in his wedding, to which I excitedly responded yes. It only dawned on me after the fact that I hadn't played the piano for an audience in over 4 years. This meant meaningful practice, something I hadn't done since I stopped taking lessons.
+Fast forward to this year when one of my closest friends asked my to play the piano in his wedding, to which I excitedly responded yes. It only dawned on me after the fact that I hadn't played the piano for an audience in over 4 years. This meant meaningful practice, something that has eluded me since I stopped taking lessons.
 \\
 \\
 Preparing for the wedding reminded me how much fun it is to learn music. Even better, it sparked my interest in playing the piano with purpose once again.
@@ -40,7 +40,7 @@ Preparing for the wedding reminded me how much fun it is to learn music. Even be
 **For the month of November, I challenge myself to practice the piano for *at least* 30 minutes a day.**
 \\
 \\
-**Deliverables**: A practice log of what I worked on
+**Deliverables**: A [practice log](https://docs.google.com/spreadsheets/d/1klwJUA51e-IqoG0qpf30Q_eTmelSGf472NhG-A7ydTU/edit?usp=sharing){:target="_blank"} of what I worked on
 
 ## 3. Virtuous: cleaning my room
 
@@ -71,5 +71,8 @@ In order to motivate myself to complete this project, I have set up the followin
 For every time I use a screened device before I sleep or when I wake up, I will **sleep in a sleeping bag on the wood floor of our family room**.
 \\
 \\
-For the other goals, every third goal I fail to complete, I will **wear an ugly sweater, turtleneck, or blazer to work on a Friday** purchased from [Community Thrift](http://www.communitythriftsf.org).
+For the other goals, every third goal I fail to complete, I will **wear an ugly sweater, turtleneck, or blazer to work on a Friday** purchased from [Community Thrift](http://www.communitythriftsf.org){:target="_blank"}.
+\\
+\\
+Barring any physical limitation or emergency, these stakes will be stricly adhered to.
 
