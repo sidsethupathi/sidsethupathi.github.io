@@ -24,7 +24,7 @@ In an ideal world, this is how updating this blog would work:
 
 1. Create content locally on my laptop
 2. When content is finished, push it to GitHub
-3. Once content is pushed, the VPS will *automatically* pull down changes and deploy
+3. <del>Once content is pushed, the VPS will *automatically* pull down changes and deploy</del> **UPDATE**: I ended up moving this whole setup to [GitHub Pages](#). Way less of a hassle!
 
 The last part isn't there yet. I still have to pull down changes and deploy manually, but that's just once small extra step for now. The first steps are very dependent on your local development set up, so I will briefly go over how I set up my VPS to serve content.
 \\
@@ -65,4 +65,4 @@ The jekyll docs recommend to not deploy directly to your hosting directory becau
 
 ### Things to still do
 
-I am still trying to figure out how to make pushing to GitHub automatically trigger the VPS to deploy. Once that is complete, I think I will have a good workflow for updating website. In my old site, I wrote a comment system from scratch. Again, it was a good learning experience but not practical at all. <del>Hopefully, I can figure out how to integrate [Disqus](http://disqus.com) into this blog.</del> **Done!** Other than that, playing with jekyll will hopefully open up new avenues. I never realized how big static site generation was. If jekyll doesn't float your boat, [Octopress](http://octopress.org) and [nanoc](http://nanoc.ws) seem to be popular alternatives.
+<del>I am still trying to figure out how to make pushing to GitHub automatically trigger the VPS to deploy. Once that is complete, I think I will have a good workflow for updating website.</del> (**Switching to GitHub pages solved this problem!**) In my old site, I wrote a comment system from scratch. Again, it was a good learning experience but not practical at all. <del>Hopefully, I can figure out how to integrate [Disqus](http://disqus.com) into this blog.</del> **Done!** Other than that, playing with jekyll will hopefully open up new avenues. I never realized how big static site generation was. If jekyll doesn't float your boat, [Octopress](http://octopress.org) and [nanoc](http://nanoc.ws) seem to be popular alternatives.

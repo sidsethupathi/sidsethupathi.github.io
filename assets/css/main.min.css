@@ -14,7 +14,7 @@ article {
 	line-height: 30px;
 }
 
-article a {
+article .article-wrap a, .article-author-side p a {
 		color: #336699;
 }
 
