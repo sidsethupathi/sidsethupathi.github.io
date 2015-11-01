@@ -20,8 +20,8 @@ I am notoriously bad at staring at my phone while still in bed. Before I go to s
 \\
 **For the month of November, I challenge myself to reduce the amount of time I look at a screen while getting ready for bed and waking up.** I will accomplish this challenge by:
 
-1. Abstaining from using a screened device in the 30 minutes before getting into bed. This includes, but is not limited to, a cell phone, laptop, or TV.
-2. Abstaining from using a screened device in the 30 minutes after waking up. This includes, but is not limited to, a cell phone, laptop, or TV.
+1. Abstaining from using a screened device 15 minutes before getting into bed. This includes, but is not limited to, a cell phone, laptop, or TV.
+2. Abstaining from using a screened device 15 minutes after waking up. This includes, but is not limited to, a cell phone, laptop, or TV.
 3. Leaving my phone across the room when sleeping.
 
 **Deliverables**: None
@@ -68,7 +68,7 @@ In order to motivate myself to complete this project, I have set up the followin
 For every time I use a screened device before I sleep or when I wake up, I will **sleep in a sleeping bag on the hard wood floor in the family room**.
 \\
 \\
-For the other goals, every third goal I fail to complete, I will **wear an ugly sweater, turtleneck, or blazer to work on a Friday** purchased from [Community Thrift](http://www.communitythriftsf.org){:target="_blank"}.
+For every third goal I fail to complete, I will **wear an ugly sweater, turtleneck, or blazer to work on a Friday** purchased from [Community Thrift](http://www.communitythriftsf.org){:target="_blank"}.
 \\
 \\
 Barring any physical limitation or emergency, these stakes will be stricly adhered to.
