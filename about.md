@@ -2,7 +2,6 @@
 layout: page
 permalink: /about/
 title: About me
-tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Sid Sethupathi, website, uiuc]
 modified: 4-30-2014
 comments: false
