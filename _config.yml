@@ -1,8 +1,8 @@
 title:            Sid Sethupathi
 description:      Personal website for Sid Sethupathi
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://www.sidsethupathi.com
-url:             http://localhost:4000
+url:              http://www.sidsethupathi.com
+#url:             http://localhost:4000
 
 
 disqus_shortname:  sidsethupathi
@@ -11,7 +11,7 @@ disqus_shortname:  sidsethupathi
 owner:
   name:           Sid Sethupathi
   avatar:         face2.jpg
-  bio:            "Full-stack engineer at <a href='http://www.comprehend.com'>Comprehend</a>. Graduate of the University of Illinois Urbana-Champaign"
+  bio:            "Software engineer at <a href='http://www.mlbam.com'>MLB Advanced Media</a>. Graduate of the University of Illinois Urbana-Champaign"
   email:          sid.sethupathi@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        SidSethupathi
