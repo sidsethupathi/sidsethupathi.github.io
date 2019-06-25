@@ -11,11 +11,11 @@ disqus_shortname:  sidsethupathi
 owner:
   name:           Sid Sethupathi
   avatar:         face2.jpg
-  bio:            "Software engineer at <a href='http://www.mlbam.com'>MLB Advanced Media</a>. Graduate of the University of Illinois Urbana-Champaign"
+  bio:            "Software engineer at <a href='http://www.mlb.com'>Major League Baseball</a>. Graduate of the University of Illinois Urbana-Champaign"
   email:          sid.sethupathi@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        SidSethupathi
-  facebook:       sid.sethupathi
+  twitter:        
+  facebook:       
   github:         sidsethupathi
   stackoverflow: 
   linkedin:       sidsethupathi
@@ -27,7 +27,7 @@ owner:
   steam: 
   dribbble: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    SidSethupathi
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-50567031-1
